@@ -68,7 +68,7 @@ A pixel-perfect, professional **Instagram Login Form** built with **C# Windows F
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/InstagramLogin.git
+   git clone https://github.com/taimoor-ai/LoginFormInC-UsingWindowsForms.git
    cd InstagramLogin
    ```
 
@@ -257,7 +257,6 @@ Contributions, issues and feature requests are welcome!
 
 ## 👤 Author
 
-**Your Name**
 - GitHub: [M Taimoor Arshad](https://github.com/taimoor-ai)
 
 ---
