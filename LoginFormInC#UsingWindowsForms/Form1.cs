@@ -156,11 +156,18 @@ namespace LoginFormInC_UsingWindowsForms
         private void BtnLogin_Click(object sender, EventArgs e)
         {
             string user = txtUsername.Text.Trim();
-            string pass = txtPassword.Text.Trim();
+            string pass = txtPassword.Text;
 
-            if (user == "demo" && pass == "password123")
+            if (user == "taimoor" && pass == "password123")
             {
-                MessageBox.Show("Login Successful");
+                MessageBox.Show("Login Successful", "Instagram",
+                    MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                HomeForm home = new HomeForm();
+                home.welcome.Text = "Welcome to Home Page 🎉"+user;
+                home.Show();
+
+                this.Hide();
             }
             else
             {
