@@ -258,7 +258,7 @@ Contributions, issues and feature requests are welcome!
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@YOUR_USERNAME](https://github.com/taimoor-ai)
 
 ---
 
